@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-10-29 14:53:06.819869'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/ManchesterDev~93~3~55771~282258/full/!1024,1024/0/default.jpg
+  title: Magical text
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~93~3~55771~282258/manifest
+  user: TheAutemist
 settings: {}
 version: '2.1'
