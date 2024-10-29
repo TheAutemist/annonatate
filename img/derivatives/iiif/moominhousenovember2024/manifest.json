@@ -1,0 +1,72 @@
+---
+added: 2024-10-29 14&#58;40&#58;37.378690
+thumbnail: https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/IMG0770/full/126,/0/default.jpg
+title: Moomin House November 2024
+user: TheAutemist
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Moomin House November 2024"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/canvas/moominhousenovember2024-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "IMG_0770"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/IMG0770/full/126,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3024,
+      "width": 4032,
+      "items": [
+        {
+          "id": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/IMG0770/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3024,
+                "width": 4032,
+                "service": [
+                  {
+                    "id": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/IMG0770",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://theautemist.github.io/annonatate/img/derivatives/iiif/moominhousenovember2024/canvas/moominhousenovember2024-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
