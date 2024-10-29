@@ -1,0 +1,49 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~93~3~55771~282258/canvas/c1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rabouni",
+            "purpose": "describing",
+            "creator": {
+                "id": "TheAutemist",
+                "name": "TheAutemist"
+            },
+            "created": "2024-10-29T14:53:48.132Z",
+            "modified": "2024-10-29T14:53:56.290Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Greek",
+            "purpose": "tagging",
+            "creator": {
+                "id": "TheAutemist",
+                "name": "TheAutemist"
+            },
+            "created": "2024-10-29T14:54:01.137Z",
+            "modified": "2024-10-29T14:54:02.067Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~93~3~55771~282258/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~93~3~55771~282258/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3852.890869140625,1058.925048828125,1630.899169921875,517.868408203125"
+        }
+    },
+    "id": "fd3e80ce-efd5-4688-9933-9355492be7d2.json",
+    "motivation": "commenting"
+}
