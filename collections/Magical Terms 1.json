@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Magical Terms 1",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://theautemist.github.io/annonatate/annotations/manchesterdev-93-3-55771-282258-c1-list.json'></iiif-annotation>",
+            "title": "Rabouni",
+            "description": "Greek Single Words",
+            "thumbnail": ""
+        }
+    ]
+}
