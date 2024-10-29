@@ -9,6 +9,12 @@
             "title": "Rabouni",
             "description": "Greek Single Words",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://theautemist.github.io/annonatate/annotations/d755e851-319f-40d2-ad9c-0961763f0fb1.json'></iiif-storyboard>",
+            "title": "",
+            "description": "The cross provides more evidence that this may have been a Christian healing amulet.",
+            "thumbnail": ""
         }
     ]
 }
